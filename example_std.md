@@ -1,9 +1,11 @@
-# Pstxy Usage Example
+# Pstxy Example & Download
 
+## Download
 [Download Pstxy Std](Coming soon...)
 
-If you want to buy Pstxy Plus, please contact: [pantilesoft@outlook.com](mailto:pantilesoft@outlook.com)
+(If you want to buy Pstxy Plus, please contact: [pantilesoft@outlook.com](mailto:pantilesoft@outlook.com))
 
+## Example
 ```csharp
 class Program
 {
