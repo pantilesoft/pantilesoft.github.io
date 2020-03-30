@@ -20,7 +20,7 @@
  便签         |           | &#10004;   
  RSS订阅     |           | &#10004;    
  Email技术支持|           | &#10004;    
- 价格         | 免费      | RMB: 1500   
+ 价格         | 免费      | &#165;1500   
 
 
 [下载 & 示例](sample_std.html)
@@ -54,7 +54,7 @@
  Note                 |          | &#10004;    
  RSS Subscription     |          | &#10004;    
  Email Support        |          | &#10004;    
- Price                | Free     | RMB: 1500   
+ Price                | Free     | &#165;1500   
 
 [Sample & Download](sample_std.html)
 
