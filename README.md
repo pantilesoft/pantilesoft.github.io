@@ -23,7 +23,7 @@
  价格         | 免费      | &#165;1500   
 
 
-[下载 & 示例](sample_std.html)
+[下载 & 示例](example_std.html)
 
 [更新记录](changelog.html)
 
@@ -56,7 +56,7 @@
  Email Support        |          | &#10004;    
  Price                | Free     | &#165;1500   
 
-[Sample & Download](sample_std.html)
+[Sample & Download](example_std.html)
 
 [Change Log](changelog.html)
 
