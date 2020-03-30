@@ -23,7 +23,7 @@
  价格         | 免费      | RMB: 1500   
 
 
-[示例程序](sample/sample_std.html)
+[示例程序](sample_std.html)
 
 (Java版本即将发布...)
 
