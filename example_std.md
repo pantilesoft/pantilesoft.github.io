@@ -1,6 +1,8 @@
 # Pstxy Usage Example
 
-[Download Sample Code with Pstxy Std](Coming soon...)
+[Download Pstxy Std](Coming soon...)
+
+If you want to buy Pstxy Plus, please contact: [pantilesoft@outlook.com](mailto:pantilesoft@outlook.com)
 
 ```csharp
 class Program
