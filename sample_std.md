@@ -57,7 +57,7 @@ class Program
             // html mail content
             Console.WriteLine(mail.ContentHtml);
         }
-        if(mail.ContentRtf != null)
+        if (mail.ContentRtf != null)
         {
             // rtf mail content
             Console.WriteLine(mail.ContentRtf);
