@@ -1,6 +1,6 @@
 # Pstxy Usage Sample
 
-[Download Sample Code with Pstxy Std](sample/readme.zip)
+[Download Sample Code with Pstxy Std](Coming soon...)
 
 ```csharp
 class Program
