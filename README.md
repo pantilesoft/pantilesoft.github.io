@@ -58,6 +58,8 @@
  Email Support        |          | &#10004;    
  Price                | Free     | RMB: 1500   
 
+[Sample](sample_std.html)
+
 (Java version coming soon...)
 
 [Contact: pantilesoft@outlook.com](mailto:pantilesoft@outlook.com)
