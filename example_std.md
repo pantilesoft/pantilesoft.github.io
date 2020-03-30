@@ -1,4 +1,4 @@
-# Pstxy Usage Sample
+# Pstxy Usage Example
 
 [Download Sample Code with Pstxy Std](Coming soon...)
 
