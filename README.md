@@ -56,7 +56,7 @@
  Email Support        |          | &#10004;    
  Price                | Free     | &#165;1500   
 
-[Sample & Download](example_std.html)
+[Example & Download](example_std.html)
 
 [Change Log](changelog.html)
 
