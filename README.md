@@ -21,7 +21,8 @@
 | Email技术支持|           | &#10004;    |
 | 价格         | 免费      | RMB: 1500   |
 
-[示例程序](sample/sample_std.md)
+[示例程序](sample/sample_std.html)
+
 (Java版本即将发布...)
 
 [咨询: pantilesoft@outlook.com](mailto:pantilesoft@outlook.com)
