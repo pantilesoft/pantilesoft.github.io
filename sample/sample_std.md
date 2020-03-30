@@ -1,6 +1,6 @@
 # sample std
 
-[Download sample with Pstxy Std](https://www.mdeditor.com/)
+[Sample Code with Pstxy Std](readme.zip)
 
 
 ```csharp
