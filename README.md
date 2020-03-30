@@ -23,15 +23,13 @@
  价格         | 免费      | RMB: 1500   
 
 
-[示例程序](sample_std.html)
+[下载 & 示例](sample_std.html)
 
-(Java版本即将发布...)
+[更新记录](changelog.html)
 
 [咨询: pantilesoft@outlook.com](mailto:pantilesoft@outlook.com)
 
-
 ---
-
 
 ## Pstxy: Outlook PST, OST File Reader for .Net
 ### Feature
@@ -58,8 +56,8 @@
  Email Support        |          | &#10004;    
  Price                | Free     | RMB: 1500   
 
-[Sample Code](sample_std.html)
+[Sample & Download](sample_std.html)
 
-(Java version coming soon...)
+[Change Log](changelog.html)
 
 [Contact: pantilesoft@outlook.com](mailto:pantilesoft@outlook.com)
