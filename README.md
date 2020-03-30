@@ -23,7 +23,7 @@
  价格         | 免费      | RMB: 1500   
 
 
-[示例程序](sample/sample_std.html)
+[示例程序](sample_std.html)
 
 (Java版本即将发布...)
 
@@ -57,6 +57,8 @@
  RSS Subscription     |          | &#10004;    
  Email Support        |          | &#10004;    
  Price                | Free     | RMB: 1500   
+
+[Sample](sample_std.html)
 
 (Java version coming soon...)
 

@@ -1,6 +1,6 @@
 # sample std
 
-[Sample Code with Pstxy Std](readme.zip)
+[Sample Code with Pstxy Std](sample/readme.zip)
 
 
 ```csharp
