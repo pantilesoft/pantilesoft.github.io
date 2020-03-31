@@ -1,7 +1,7 @@
 # Pstxy Example & Download
 
 ## Download
-[Download Pstxy Std](Coming soon...)
+[Download Pstxy Std](download/Pstxy_Std_3.0.330.0.zip)
 
 (If you want to buy Pstxy Plus, please contact: [pantilesoft@outlook.com](mailto:pantilesoft@outlook.com))
 
