@@ -9,3 +9,4 @@ include:
   - README.md
   - example_std.md
   - changelog.md
+  - BingSiteAuth.xml
